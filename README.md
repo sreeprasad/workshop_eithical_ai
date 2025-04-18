@@ -24,8 +24,8 @@ This repository includes:
 
 - **`workshop.py`**: The complete Python code for the Ethical AI Study Buddy
 - **`presentation.md`**: Slides for the workshop presentation (concept-focused)
-- **`instructor_guide.md`**: Detailed guide for workshop facilitators
-- **`participant_handout.md`**: Handout with key concepts and challenges
+- **presentation link**: [Google Slides](https://gamma.app/docs/Creating-an-Ethical-AI-Study-Buddy-13onj8j76vquqn0)
+
 
 ## 🚀 Getting Started
 
